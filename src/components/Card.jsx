@@ -7,9 +7,8 @@ export function Card({name,age,location,followers,likes,nopic}){
         <div className='blue'>
 
         </div>
-        <div className='img'>
-            Hi3 
-            <image src="C:\Users\balan\OneDrive\Desktop\100xdevs\w71\exp\src\assets\profile-pic.png"></image>
+        <div className='ia'>
+            <img src="./src/assets/images.jpeg"></img>
         </div>
         <div className='white'>
             <div className="p1">

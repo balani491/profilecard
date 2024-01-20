@@ -17,11 +17,11 @@
     
 }
 
-.main .img{
-    
+.main .ia{
+    position:absolute;
     display:flex;
-    z-index: 9;
-
+    z-index: 1;
+    top:20%;
 
 }
 
